@@ -2,7 +2,7 @@ function reset_form()
     {
       $("#txrekening").val('').focus();
       $("#txbank").val('');
-    }
+    } 
 
 function update_data() {
   var id = $("#loginModal").data('id');
